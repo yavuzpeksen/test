@@ -1,2 +1,2 @@
 # test
-My first repository to test and use commands
+My first repository to test git operations
